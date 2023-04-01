@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcb82115.css",
+    "main.js": "/static/js/main.e18a69d4.js",
+    "static/media/AvertaCY.woff": "/static/media/AvertaCY.7585dccd3600fbbd1193.woff",
+    "index.html": "/index.html",
+    "main.dcb82115.css.map": "/static/css/main.dcb82115.css.map",
+    "main.e18a69d4.js.map": "/static/js/main.e18a69d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb82115.css",
+    "static/js/main.e18a69d4.js"
+  ]
+}

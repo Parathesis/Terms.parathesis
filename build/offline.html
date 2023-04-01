@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Offline</title>
+   <style>
+@font-face {
+  font-family: 'Averta CY';
+  src: url('AvertaCY.woff') format('woff');
+}
+body {
+  font-family: Averta CY, sans-serif;
+  background: #212121;
+  overflow: hidden;
+user-select: none;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: 800px;
+  text-align: center;
+  color: #333;
+  background: linear-gradient(to right, #007fff, #49ffc4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  font-size: 32px;
+  text-align: center;
+  color: #666;
+  background: linear-gradient(to right, #c800ff, #00dcff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+ img{
+        display: block;
+        margin: 0 auto;
+}
+</style>
+  </head>
+  <body>
+    <h1>You're offline</h1>
+    <p>Please check your internet connection and try again.</p>
+    <img src="load.gif" alt="Load" loop="false">
+  </body>
+</html>
